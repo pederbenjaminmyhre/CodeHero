@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35806.99 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CodeHero", "CodeHero\CodeHero.sqlproj", "{BD0CB382-81F0-4B47-861E-747F6CBD45FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeHeroApp", "CodeHeroApp\CodeHeroApp.csproj", "{947CB9C3-F7A7-4732-9F88-40D8CB1B40A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{BD0CB382-81F0-4B47-861E-747F6CBD45FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD0CB382-81F0-4B47-861E-747F6CBD45FE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BD0CB382-81F0-4B47-861E-747F6CBD45FE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{947CB9C3-F7A7-4732-9F88-40D8CB1B40A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947CB9C3-F7A7-4732-9F88-40D8CB1B40A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947CB9C3-F7A7-4732-9F88-40D8CB1B40A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947CB9C3-F7A7-4732-9F88-40D8CB1B40A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
